@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "444772427869",
+    "project_id": "formal-app",
+    "storage_bucket": "formal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444772427869:android:da770eca64936fdaf5c5b4",
+        "android_client_info": {
+          "package_name": "app.happyhumor.online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1u4tftAXK-wne2kQzTOK_uDm99OctSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444772427869:android:ff1d0f588894a6fff5c5b4",
+        "android_client_info": {
+          "package_name": "app.raincheck.online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1u4tftAXK-wne2kQzTOK_uDm99OctSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444772427869:android:b0682b5fa76fcbfff5c5b4",
+        "android_client_info": {
+          "package_name": "dev.joven.fruitmatchfrenzy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1u4tftAXK-wne2kQzTOK_uDm99OctSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
